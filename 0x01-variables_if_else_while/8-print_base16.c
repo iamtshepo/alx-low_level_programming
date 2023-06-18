@@ -18,5 +18,6 @@ int main(void)
 			putchar(',');
 			putchar(32);
 		}
+	}
 	return (0);
 }
